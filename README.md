@@ -2,10 +2,12 @@
 
 Thành Viên Team
 
-- Thành Viên 1
-- Thành Viên 2
-- Thành Viên 3
+- Trưởng Nhóm
+  Làm phần features/Index
 
--Yêu Câu 1-
--Yêu Cầu 2-
--Yêu Cầu 3-
+- Thành Viên 1
+  Làm Phần features/News-Page
+- Thành Viên 2
+  Làm phần features/Contact-Page
+- Thành Viên 3
+  Làm phần features/Sevices-Page
